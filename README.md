@@ -1,6 +1,6 @@
 ﻿# Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Mario Alberto de la fuente ryuz
+## Alumno: Mario Alberto de la fuente ruiz
 ## Grupo: C
 ## Actividad #16.  Matrices documentación
 
